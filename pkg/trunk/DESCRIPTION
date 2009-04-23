@@ -1,0 +1,11 @@
+Package: pan
+Type: Package
+Title: pan (Phylogenetic Analysis)
+Version: 1.0
+Date: 2009-04-15
+Author: Francois Michonneau
+Maintainer: Francois Michonneau <francois.michonneau@gmail.com>
+Description: Tools to perform phylogenetic analysis
+Depends: ape
+License: GPL
+LazyLoad: yes
